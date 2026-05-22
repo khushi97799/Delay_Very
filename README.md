@@ -8,7 +8,7 @@ Delhivery's OSRM-based ETA system significantly underestimates delivery times on
 ## Team
 | Person | Role |
 |--------|------|
-| Person 1 | ML + Graph Engineering (Data pipeline, GraphSAGE, XGBoost, metrics) |
-| Person 2 | Visualization + Business (Dashboard, network viz, heatmaps, strategy memo) |
+| Khushi | ML + Graph Engineering (Data pipeline, GraphSAGE, XGBoost, metrics) |
+| Sneha Jaiswal | Visualization + Business (Dashboard, network viz, heatmaps, strategy memo) |
 
 ## Project Architecture
